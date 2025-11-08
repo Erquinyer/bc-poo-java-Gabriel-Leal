@@ -1,3 +1,5 @@
+package co.edu.sena.gabriel.sem1;
+
 public class BikeServiceOrder {
 
   //Atributos son los objetos que conforman la clase, generalmente se dejan private

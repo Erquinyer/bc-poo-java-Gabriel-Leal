@@ -1,3 +1,5 @@
+package co.edu.sena.gabriel.sem1;
+
 public class Clients {
 
   //Atributos que definen la clase clientes
